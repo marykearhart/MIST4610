@@ -24,21 +24,10 @@
   The Store Locations entity is comprised of attributes including each store's area code, city, and state. This entity is also connected with the Employees table signifying that many employees can work at one store location, while each employee can only work at one location.
 
   Last, the Employees entity is the most ocmplex of our entities, containing information on each employee's name, email, and the foeign keys identifying their respective store location, department chair, and the preceeding department chair as indicaed through a recursive one-to-one relationship. The department chair identifier stems from our Department entity which indicates the ID for the department which each employee that serves as department chair is a part of, as well as the name of that department (either Human Resources or general Franchise Operations for the national company).
-  <img width="897" height="425" alt="Screenshot 2026-03-29 at 7 37 09 PM" src="https://github.com/user-attachments/assets/5782c0e2-81b0-4e1c-98ef-4bb4d502f950" />
+ADD DATA MODEL PHOTO
 
 # Data Dictionary:
-<img width="724" height="258" alt="Screenshot 2026-03-29 at 7 41 28 PM" src="https://github.com/user-attachments/assets/9112ef65-ba06-447e-8e18-0767150addb8" />
-<img width="724" height="306" alt="Screenshot 2026-03-29 at 7 41 22 PM" src="https://github.com/user-attachments/assets/f4b8db86-439a-405d-8005-db1787370641" />
-<img width="724" height="373" alt="Screenshot 2026-03-29 at 7 41 14 PM" src="https://github.com/user-attachments/assets/adcb92df-a37f-4d9a-8217-28c373b2a808" />
-<img width="724" height="445" alt="Screenshot 2026-03-29 at 7 41 05 PM" src="https://github.com/user-attachments/assets/e9c62120-a666-4ae2-94a0-702cbd751e13" />
-<img width="724" height="304" alt="Screenshot 2026-03-29 at 7 40 58 PM" src="https://github.com/user-attachments/assets/e6584bb8-b9cd-40fc-8202-b41762d41294" />
-<img width="724" height="343" alt="Screenshot 2026-03-29 at 7 40 48 PM" src="https://github.com/user-attachments/assets/97e97951-8a63-4f50-94d2-0202cef9c6b4" />
-<img width="724" height="417" alt="Screenshot 2026-03-29 at 7 40 40 PM" src="https://github.com/user-attachments/assets/98d433a6-d00f-4f01-b2ae-896fd919fcd9" />
-<img width="724" height="540" alt="Screenshot 2026-03-29 at 7 40 31 PM" src="https://github.com/user-attachments/assets/40315315-7444-426c-a743-cad3b2b55e6f" />
-<img width="724" height="580" alt="Screenshot 2026-03-29 at 7 40 16 PM" src="https://github.com/user-attachments/assets/bee40e1d-56a7-48f7-96f4-18bc8047579a" />
-<img width="724" height="686" alt="Screenshot 2026-03-29 at 7 40 06 PM" src="https://github.com/user-attachments/assets/9c7b6343-64c9-4a85-99fa-418e1d970e46" />
-<img width="724" height="309" alt="Screenshot 2026-03-29 at 7 39 55 PM" src="https://github.com/user-attachments/assets/92a2cef7-f5b2-46be-b613-9dfa55e1049e" />
-<img width="726" height="462" alt="Screenshot 2026-03-29 at 7 39 43 PM" src="https://github.com/user-attachments/assets/40ea1cfa-4b54-4305-a749-97470250eb3c" />
+ADD DICTIONARY
 
 # Queries:
 
