@@ -15,5 +15,8 @@ We wanted to analyze whether passengers are more likely to tip more the farther 
 In order to answer the first question, we had to create a new measure labelled "farePerPassenger" which is indicated by the equation in the screenshot below:
 
 # Analysis and Results
-
+1. To answer our first question, we created a bar graph attached below that depicts the relationship between the average fare per passenger and the number of riders in the taxi. Initially, we assumed that the fares would be generally higher as it may be mroe incovnienient for the taxi driver to have so many people to drive at once. Upon observation of our barchart, we realized that the opposite was true. Since there are more passengers, fare is divided amongst more people and therefore leads to lower prices per individual.
+[Sheet 3.pdf](https://github.com/user-attachments/files/26789530/Sheet.3.pdf)
+2. To answer our second question, we decided to create a scatter plot that shows the average tip granted per ride given the distance of each ride. We went into this test assuming that the linger thr ride, the more likely the passenger would tip a higher amount out of courtesy. WHat we ended up discovering was that the tips generally range in a very cocnentrated bubble, with some outliers of passengers tipping more or less for unrelated circumstances we do not have the power to identify. 
+[Sheet 4.pdf](https://github.com/user-attachments/files/26790114/Sheet.4.pdf)
 # Tableau File
