@@ -16,6 +16,7 @@ This question inidcates if taxi drivers change their rates to accomodate for the
 We wanted to analyze whether passengers are more likely to tip more the farther the distance the taxi driver has to take them. This measure is a strong behvaioral indicator of how the average passenger views tips and whether they are a key part of the taxi driver's pay per trip.
 # Applied Manipulations
 In order to answer the first question, we had to create a new measure labelled "farePerPassenger" which is indicated by the equation in the screenshot below:
+<img width="1042" height="614" alt="Screenshot 2026-04-16 at 9 21 17 AM" src="https://github.com/user-attachments/assets/cc3dc8cc-a282-43cf-9054-c2c20db2975f" />
 
 # Analysis and Results
 1. To answer our first question, we created a bar graph attached below that depicts the relationship between the average fare per passenger and the number of riders in the taxi. Initially, we assumed that the fares would be generally higher as it may be mroe incovnienient for the taxi driver to have so many people to drive at once. Upon observation of our barchart, we realized that the opposite was true. Since there are more passengers, fare is divided amongst more people and therefore leads to lower prices per individual.
