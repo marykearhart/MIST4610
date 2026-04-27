@@ -5,7 +5,7 @@
 3. Sydney James [@srj44873](https://github.com/srj44873)
 4. Mary Earhart [@mke48687](https://github.com/marykearhart)
 # Data Set: 2023 Yellow Taxi Trips
-We chose a comprehensive dataset depicting upwards of 37 million real taxi rides in New York city for 2023. To accomodate for the limits of Tableau, we narrowed the data down to the top 20 drop-off and pick-up locations before conducting any analyses, giving us around 13 million rides to assess. Attributes of the dataset include the trip distance, drop-off and pick-up datetimes, drop-off and pick-up location codes, rate types, payment types, passengers per ride, total amount, airport fees, and many more variables which we did not use to out of irrelevance to our project's focus. 
+We chose a comprehensive dataset depicting upwards of 37 million real taxi rides in New York city for 2023, which we obtained from the government domain of public datasets on the US Data Government website. To accomodate for the limits of Tableau, we narrowed the data down to the top 20 drop-off and pick-up locations before conducting any analyses, giving us around 13 million rides to assess. Attributes of the dataset include the trip distance, drop-off and pick-up datetimes, drop-off and pick-up location codes, rate types, payment types, passengers per ride, total amount, airport fees, and many more variables which we did not use to out of irrelevance to our project's focus. 
 # Team Questions
 ## Overarching Question
 Are there certain scenarios and instances that make taxi's more profitable for the driver? What about scenarios where the customer benefits over other ride systems like Uber and Lyft?
@@ -49,4 +49,5 @@ While we were given the fees for the rides to the airports, we wanted to find a 
 Together, these two experimental data analyses we completed for this project help us see the behavioral descision-making tactics of taxi users and taxi drivers in New York when compared against Ubers, Lyfts, and other competitors. Our first supplemental question helped us to see real proof of areas where riders took advantage of the deals they were getting at certain locations comapred to other modes of transportation. Additionally, Our second data analysis shows us that when it comes to airport demand, taxis keep a competitive price and do not generally hike up their airport fees as to not deter any customers that will otherwise exchange taxis for Uber or Lyft. In all, these two examples answer out overarching question, showing that that customers will find deals where they can within the NYC taxi system, while the taxi rivers maintain a comeptitive market price for sustaianble competitive edge.
 
 # Tableau File
-https://public.tableau.com/views/MISTPROJECT/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+https://public.tableau.com/app/profile/mary.earhart/viz/MISTPROJECT/Sheet3 
+Workbook added to my personal MIST4610 repository
