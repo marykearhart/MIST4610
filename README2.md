@@ -23,11 +23,13 @@ How do taxi prices change between airport rides and city regular rides?
 This question helps to understand the profitability of the taxi driver, and whether or not their charge of airport fees upcharges their rides out of the range of the average ride-share system, decreasing their competitive advantage. 
 
 # Applied Manipulations
-1. For the first supplemental question, we had to create a new calculated field titled "Cost per Mile" which we used to find the average amount paid by a customer per mile the taxis driver had to deliver them to their destination.
+## Manipulation 1
+For the first supplemental question, we had to create a new calculated field titled "Cost per Mile" which we used to find the average amount paid by a customer per mile the taxis driver had to deliver them to their destination.
 <img width="483" height="300" alt="Screenshot 2026-04-26 at 11 09 09 PM" src="https://github.com/user-attachments/assets/0609f501-5d49-47a1-a5c4-848d196fdacb" />
 
 
-2. Our second calulated field was titled 'Airport Trip' which we used to manipulate the data under 'Airport Fee' to differentiate between rides that did have an airport fee (were rides to the airport) and those that didn't (rides that were not to the airport) for our second supplemental question.
+## Manipulation 2
+Our second calulated field was titled 'Airport Trip' which we used to manipulate the data under 'Airport Fee' to differentiate between rides that did have an airport fee (were rides to the airport) and those that didn't (rides that were not to the airport) for our second supplemental question.
 <img width="483" height="300" alt="Screenshot 2026-04-26 at 11 46 55 PM" src="https://github.com/user-attachments/assets/af821cd9-c109-429d-9307-5090161ddab1" />
 
 
@@ -40,11 +42,11 @@ Before coming to any conclusions, we made a second graph to better visually unde
 <img width="1103" height="745" alt="Screenshot 2026-04-27 at 12 07 56 AM" src="https://github.com/user-attachments/assets/49fca624-b6b1-4012-a2ec-dd594eff0690" />
 
 ## Supplemental Question 2
-three way bar chart comparing average total cost, average airport fee, and average trip distance given whether or not the ride was to the airport or not. shows a payment breakdown of whether the aiport fee is a deal-breaker for customers. data suggests that the pricing is more based on distance travelled rather than the fees to get to the airport, making taxis a comparable competition with other ride share companies.
+While we were given the feees for the rides to the airports, we wantd to find a direct comparison in total costs for rides to the airport versus rides to anywhere else in the city. We also wanted to compare the price breakdown, along with the average trip distance to see what portions of the price change were attributed by the airport fees versus the fact that the riders were being taken farther. We ultimately decided a three way bar chart comparing these features was the best way to differentiate between each attribute for non-airport rides and airport rides. We observed that while the general fares were higher for airport rides, only a very small portion of that was attributed by the airport fee; with this being said, we also observed that the distance travelled for airport rides was signifigcantly more than city rides. We can assume from these observations that while the airport rides are more expensive than regular rides, the are at a competitive price point with Ubers and Lyfts because regardless for the airport fee as the bulk of each ride cost comes from the distance of the ride to the airport. We can therefore further assume that any other bsuiness would also have to upcharge longer drives, meaning that a customer would not be at a real loss choosing a taxi over another ride-share systems when trying to go to the airport.
 <img width="1095" height="740" alt="Screenshot 2026-04-26 at 11 55 05 PM" src="https://github.com/user-attachments/assets/51ba0882-6f38-4774-a96e-d87962cda30a" />
 
 ## Conclusion
-
+Together, these two experimental data analyses we completed for this project help us see the behavioral descision making of taxi users and taxi drivers in New York when compared against Ubers, Lyfts, and other competitors as we hoped to in our overarching project question. Our first supplemental question helped us to see real proof of areas where riders took advantage of the deals they were getting at certain locations when taking a taxi over another mode of transportation. Additionally, Our second data analysis shows us that when it comes to airport demand, taxis keep a competitive price and do not generally hike up their airport fees as to not deter any customers that will otherwise exchange taxis for Uber or Lyft. For the most part, we can observe from these two examples that customers will find deals where they can within the NYC taxi system, but generally speaking the taxi rivers maintain a comeptitive market price for sustaianble competitive edge.
 
 # Tableau File
 https://public.tableau.com/views/MISTPROJECT/Sheet3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
