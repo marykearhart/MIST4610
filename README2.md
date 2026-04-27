@@ -50,4 +50,4 @@ Together, these two experimental data analyses we completed for this project hel
 
 # Tableau File
 https://public.tableau.com/app/profile/mary.earhart/viz/MISTPROJECT/Sheet3 
-Workbook added to my personal MIST4610 repository
+Workbook was too large to upload to the repository, but was submitted on eLC.
