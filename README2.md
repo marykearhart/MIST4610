@@ -5,7 +5,7 @@
 3. Sydney James [@srj44873](https://github.com/srj44873)
 4. Mary Earhart [@mke48687](https://github.com/marykearhart)
 # Data Set: 2023 Yellow Taxi Trips
-We chose a comprehensive dataset depicting upwards of 37 million real taxi rides in New York city for 2023. To accomodate for the limits of Tableau, we narrowed the data down to the top 20 drop-off and pick-up locations before conducting any analyses, giving us around 13 million rides to assess. Attributes of the dataset include the trip distance, drop-off and pick-up datetimes, drop-off and pick-up location codes, rate types, payment types, passengers per ride, total amount, airport fees, and many more variables which we did not use to out of irrelevance to our project questions. 
+We chose a comprehensive dataset depicting upwards of 37 million real taxi rides in New York city for 2023. To accomodate for the limits of Tableau, we narrowed the data down to the top 20 drop-off and pick-up locations before conducting any analyses, giving us around 13 million rides to assess. Attributes of the dataset include the trip distance, drop-off and pick-up datetimes, drop-off and pick-up location codes, rate types, payment types, passengers per ride, total amount, airport fees, and many more variables which we did not use to out of irrelevance to our project's focus. 
 # Team Questions
 ## Overarching Question
 Are there certain scenarios and instances that make taxi's more profitable for the driver? What about scenarios where the customer benefits over other ride systems like uber and lyft?
