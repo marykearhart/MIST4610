@@ -12,12 +12,12 @@ Are there certain scenarios and instances that make taxi's more profitable for t
 
 
 
-##Supplemental Question 1
+## Supplemental Question 1
 How does the cost per mile change given the pick up location and the trip distance? What might this indicate about taxi users?
 
 
 
-##Supplemental Question 2
+## Supplemental Question 2
 How do taxi prices change when comparing rides to the airport to regular rides?
 
 
