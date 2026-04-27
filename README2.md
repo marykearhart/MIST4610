@@ -7,11 +7,12 @@
 # Data Set: 2023 Yellow Taxi Trips
 We chose a comprehensive data set depicting thousands of real taxi rides in New York city. Attributes of the dataset include the trip distance, drop off times, drop off and pick up locations, rate types, payment types, and passenger counts. 
 # Team Questions
-1. OVERARCHING QUESTION
+1. Are there certain scenarios and instances that the data proves yellow taxi's to be a better alternative to other transportation systems?
 
-2. BUILDER QUESTION
-
-3. BUILDER QUESTION
+2. How does the cot per mile change given the pick up location and the trip distance? WHat might this indicate about taxi users?
+bar char depicting the cost per mile at each pick up location and line graph depicting the average trip distance based on the pick up location.
+comparing the average price with the average distance, a certain spike indicate where there are good deals that would make a customer want to specifically choose a taxi over another ride share service.
+4. BUILDER QUESTION
 
 
 # Applied Manipulations
