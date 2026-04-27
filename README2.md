@@ -39,10 +39,11 @@ To find the answer to our first supplemental quesiton, we started with a line gr
 Before coming to any conclusions, we made a second graph to better visually understand this relationship. This graph shows the area covered for the same relationships with average distance per trip an cost per mile with each pickup location, only this time labeled by the average total cost for a ride by a customer. By bringing the two seperate graphs together, the relationship became more obvious that ucstomers were spending voerall more money at these locations where they were also going farther distances and recieving lower fare costs. This suggests that because fares were so cheap at these locations, customers were more willing to be taken further or closer to their actual destination instead of walking from further away to avoid high fares. While we only looked at the twenty most popular locations for taxi pickups, this ties us back to our overarching question stating that the average taxi customer will change their behavior depending on the deals they can get from the driver.
 <img width="1103" height="745" alt="Screenshot 2026-04-27 at 12 07 56 AM" src="https://github.com/user-attachments/assets/49fca624-b6b1-4012-a2ec-dd594eff0690" />
 
-
-2.
+## Supplemental Question 2
 three way bar chart comparing average total cost, average airport fee, and average trip distance given whether or not the ride was to the airport or not. shows a payment breakdown of whether the aiport fee is a deal-breaker for customers. data suggests that the pricing is more based on distance travelled rather than the fees to get to the airport, making taxis a comparable competition with other ride share companies.
 <img width="1095" height="740" alt="Screenshot 2026-04-26 at 11 55 05 PM" src="https://github.com/user-attachments/assets/51ba0882-6f38-4774-a96e-d87962cda30a" />
+
+## Conclusion
 
 
 # Tableau File
