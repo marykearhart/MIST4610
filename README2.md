@@ -12,7 +12,7 @@ We chose a comprehensive data set depicting thousands of real taxi rides in New 
 2. How does the cot per mile change given the pick up location and the trip distance? WHat might this indicate about taxi users?
 bar char depicting the cost per mile at each pick up location and line graph depicting the average trip distance based on the pick up location.
 comparing the average price with the average distance, a certain spike indicate where there are good deals that would make a customer want to specifically choose a taxi over another ride share service.
-4. how does payment method change the profitability for the taxi driver.
+4. How do taxi prices change when comparing rides to the airport to regular rides?
 
 
 # Applied Manipulations
